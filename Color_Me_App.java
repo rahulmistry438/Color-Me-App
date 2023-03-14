@@ -12,7 +12,7 @@ class App extends JFrame
 		c = getContentPane();
 		c.setLayout(null);
 		Font f = new Font("Times New Roman", Font.BOLD, 40);
-		btn = new JButton("Mohe Rang Do");
+		btn = new JButton("Color Me");
 		btn.setFont(f);
 		btn.setBounds(50, 100, 400, 60);
 		c.add(btn);
