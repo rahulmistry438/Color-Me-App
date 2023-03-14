@@ -32,7 +32,7 @@ class App extends JFrame
 	}
 }
 
-class P3
+class Color_Me_App
 {
 	public static void main(String args[])
 	{
